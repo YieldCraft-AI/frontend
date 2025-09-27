@@ -1,10 +1,8 @@
 const sponsors = [
-  { name: "1inch", logo: "/1inch-1inch-logo.svg" },
   { name: "Pyth Network", logo: "/pyth-network-pyth-logo.svg" },
   { name: "Hedera", logo: "/hedera-hbar-logo.svg" },
   { name: "Polygon", logo: "/polygon-matic-logo.svg" },
-  { name: "Aave", logo: "/aave-aave-logo.svg" },
-  { name: "Uniswap Foundation", logo: "/uniswap-uni-logo.svg" },
+  { name: "SushiSwap Foundation", logo: "/uniswap-uni-logo.svg" },
   { name: "The Graph", logo: "/the-graph-grt-logo.svg" },
 ];
 
