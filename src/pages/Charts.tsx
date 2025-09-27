@@ -20,12 +20,12 @@ import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip,
 
 // Mock chart data
 const performanceData = [
-  { date: '2024-01', value: 10000, apy: 5.2 },
-  { date: '2024-02', value: 10520, apy: 6.1 },
-  { date: '2024-03', value: 11200, apy: 7.8 },
-  { date: '2024-04', value: 11850, apy: 8.5 },
-  { date: '2024-05', value: 12150, apy: 9.2 },
-  { date: '2024-06', value: 12450, apy: 10.1 }
+  { date: '2025-01', value: 10000, apy: 5.2 },
+  { date: '2025-02', value: 10520, apy: 6.1 },
+  { date: '2025-03', value: 11200, apy: 7.8 },
+  { date: '2025-04', value: 11850, apy: 8.5 },
+  { date: '2025-05', value: 12150, apy: 9.2 },
+  { date: '2025-06', value: 12450, apy: 10.1 }
 ];
 
 const protocolDistribution = [
@@ -36,12 +36,12 @@ const protocolDistribution = [
 ];
 
 const yieldHistory = [
-  { date: '2024-01', saucerswap: 14.2, hedera: 6.5, pangolin: 11.8, compound: 3.9 },
-  { date: '2024-02', saucerswap: 15.1, hedera: 6.5, pangolin: 12.2, compound: 4.1 },
-  { date: '2024-03', saucerswap: 15.8, hedera: 6.5, pangolin: 12.8, compound: 4.3 },
-  { date: '2024-04', saucerswap: 14.9, hedera: 6.5, pangolin: 13.1, compound: 4.2 },
-  { date: '2024-05', saucerswap: 15.2, hedera: 6.5, pangolin: 12.6, compound: 4.0 },
-  { date: '2024-06', saucerswap: 15.2, hedera: 6.5, pangolin: 12.8, compound: 4.2 }
+  { date: '2025-01', saucerswap: 14.2, hedera: 6.5, pangolin: 11.8, compound: 3.9 },
+  { date: '2025-02', saucerswap: 15.1, hedera: 6.5, pangolin: 12.2, compound: 4.1 },
+  { date: '2025-03', saucerswap: 15.8, hedera: 6.5, pangolin: 12.8, compound: 4.3 },
+  { date: '2025-04', saucerswap: 14.9, hedera: 6.5, pangolin: 13.1, compound: 4.2 },
+  { date: '2025-05', saucerswap: 15.2, hedera: 6.5, pangolin: 12.6, compound: 4.0 },
+  { date: '2025-06', saucerswap: 15.2, hedera: 6.5, pangolin: 12.8, compound: 4.2 }
 ];
 
 const Charts = () => {
